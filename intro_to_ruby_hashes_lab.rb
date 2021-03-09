@@ -18,7 +18,7 @@ def monopoly_with_second_tier
 	monopoly = {
 	  railroads: {
 	    pieces: 4,
-	    name: {},
+	    names: {},
 	    rent_in_dollars: {}
 	  }
 	}
@@ -31,7 +31,7 @@ def monopoly_with_third_tier
 	monopoly = {
 	  railroads: {
 	    pieces: 4,
-	    name: {
+	    names: {
 	      reading_railroad:{},
 	      pennsylvania_railroad:{},
 	      b_and_o_railroad:{},
@@ -54,7 +54,7 @@ def monopoly_with_fourth_tier
 		monopoly = {
 	  railroads: {
 	    pieces: 4,
-	    name: {
+	    names: {
 	      reading_railroad:{
 	        "mortgage_value" => "$100"
 	      },
