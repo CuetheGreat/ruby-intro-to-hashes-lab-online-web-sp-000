@@ -34,8 +34,8 @@ def monopoly_with_third_tier
 	    name: {},
 	    rent_in_dollars: {
 	      one_piece_owned: 25,
-	      two_peiceOwned: 50
-	      two_peiceOwned: 50
+	      two_peice_powned: 50
+	      three_peice_Owned: 50
 	      two_peiceOwned: 50
 	    }
 	  }
